@@ -1,0 +1,6 @@
+.navbar {
+  height: 40px;
+  background: #222;
+  display: flex;
+  flex-flow: row no-wrap;
+} 
